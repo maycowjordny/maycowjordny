@@ -31,6 +31,5 @@
  
 
  
-![Snake animation](https://github.com/jessicaandreoli/jessicaandreoli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
