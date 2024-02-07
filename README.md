@@ -16,6 +16,8 @@
   <img align="center" alt="Maycow-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Maycow-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Maycow-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg">
+  <img align="center" alt="Maycow-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  
 
 </div>
 
