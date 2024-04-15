@@ -2,7 +2,7 @@
 Bem-vindo ao meu perfil do GitHub! 👋<br><br>Meu nome é Maycow, e eu sou apaixonado por tecnologia.<br><br>Atualmente, estou focando em aprimorar minhas habilidades em nodejs e javascript. Estou sempre em busca de novos conhecimentos e desafios emocionantes.<br>
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycow-jordny-159918208/) 
 
 # 💻 Tech Stack:
