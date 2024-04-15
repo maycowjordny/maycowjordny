@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Bem-vindo ao meu perfil do GitHub! 👋<br><br>Meu nome é Maycow, e eu sou apaixonado por tecnologia.<br><br>Atualmente, estou focando em aprimorar minhas habilidades em nodejs e javascript. Estou sempre em busca de novos conhecimentos e desafios emocionantes.<br>
+Bem-vindo ao meu perfil do GitHub! 👋<br><br>Meu nome é Maycow, e eu sou apaixonado por tecnologia.<br><br>Estou sempre em busca de novos conhecimentos e desafios emocionantes.<br>
 
 
 ## 🌐 Social:
